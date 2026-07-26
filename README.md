@@ -1,11 +1,10 @@
-# Project 6: Student Placement Prediction
+# Student Placement Prediction
 
 **Difficulty Level:** Beginner to Intermediate
 **Model:** Logistic Regression
 **Dataset:** [Campus Recruitment Dataset (Kaggle — benroshan)](https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement)
 **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn
 
-> Replace `RollNo-XXXXX` in the folder name with your actual roll number before submission.
 
 ---
 
