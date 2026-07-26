@@ -11,7 +11,7 @@ import os
 # PAGE CONFIG
 # ──────────────────────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Student Placement Predictor",
+    page_title="Student Placement Predictor Model",
     page_icon="🎓",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -416,7 +416,7 @@ with st.sidebar:
 # ──────────────────────────────────────────────────────────────────────────────
 # MAIN PANEL
 # ──────────────────────────────────────────────────────────────────────────────
-st.markdown("# 🎓 Student Placement Predictor")
+st.markdown("# 🎓 Student Placement Predictor Model")
 st.markdown(
     '<p style="color: #8b8bbd; font-size: 1.05rem; margin-top: -0.8rem;">'
     'Predict campus placement outcomes using Logistic Regression trained on real recruitment data.'
