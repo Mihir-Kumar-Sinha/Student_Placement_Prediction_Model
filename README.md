@@ -98,18 +98,6 @@ Negative (decrease placement likelihood): `degree_t_Sci&Tech`, `mba_p` (weak/neg
 2. Ensure `pandas`, `numpy`, `matplotlib`, `seaborn`, and `scikit-learn` are installed (`pip install pandas numpy matplotlib seaborn scikit-learn`).
 3. Open `Notebook/student_placement_prediction.ipynb` in Jupyter and run all cells (dataset path is relative: `../Dataset/Placement_Data_Full_Class.csv`).
 
-## 10. Folder Structure
-
-```
-AIML-Project-RollNo-XXXXX/
-├── Dataset/
-│   └── Placement_Data_Full_Class.csv
-├── Notebook/
-│   └── student_placement_prediction.ipynb
-├── Images/
-│   └── (EDA charts, evaluation plots)
-└── README.md
-```
 
 ## 11. Submission Checklist
 
